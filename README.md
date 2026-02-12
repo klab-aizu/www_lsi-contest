@@ -1,6 +1,7 @@
 # LSI-contest from Khánh's Research Group
 
-The content is accessible at: [https://github.com/klab-aizu/www_lsi-contest/](https://github.com/klab-aizu/www_lsi-contest/)
+- LSI Contest: http://www.lsi-contest.com/index.html
+- Our submissions are accessible at: [https://github.com/klab-aizu/www_lsi-contest/](https://github.com/klab-aizu/www_lsi-contest/)
 
 ## Submissions
 
@@ -12,4 +13,5 @@ The content is accessible at: [https://github.com/klab-aizu/www_lsi-contest/](ht
 
 ## Contact
 
-
+- Please check each report for the members' contact.
+- Overall, please reach Khanh at khanh `@` u-aizu `dot` ac `dot` jp
