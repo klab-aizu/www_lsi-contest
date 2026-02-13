@@ -7,7 +7,9 @@
 
 | Year | Topic | Our Title | Member(s) | Result | Materials |
 | ---- | ------ | ------ | -------| --- | --- |
-| 2026 | Generative Adversarial Networks（GAN） |  SpikeGAN: An Energy-Efficient Spiking Generative Adversarial Network Design | Hanyu, Atharv, Komatsuzaki | Passed Round 1, Round 2 awaits | [[Overview](./2026/README.md)\], \[[Report](./2026/LSI_Contest_2026_Spiking-GAN.pdf)\], \[[Slides](./2026/LSI_Contest_2026_Spiking-GAN_Slide.pptx)] |
+| 2026 | Generative Adversarial Networks（GAN |  SpikeGAN: An Energy-Efficient Spiking Generative Adversarial Network Design | Hanyu, Atharv, Komatsuzaki | Passed Round 1, Round 2 awaits | [[Overview](./2026/README.md)\], \
+[[Report](./2026/LSI_Contest_2026_Spiking-GAN.pdf)\], \
+[[Slides](./2026/LSI_Contest_2026_Spiking-GAN_Slide.pptx)] |
 
 ## Contact
 
