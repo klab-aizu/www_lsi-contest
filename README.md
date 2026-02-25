@@ -1,3 +1,7 @@
+---
+level: ''
+---
+
 # LSI-contest from Khánh's Research Group
 
 - LSI Contest: http://www.lsi-contest.com/index.html
