@@ -1,3 +1,7 @@
+---
+level: ''
+---
+
 # LSI-Contest 2026: Generative Adversarial Networks（GAN）
 
 - **Title:** SpikeGAN: An Energy-Efficient Spiking Generative Adversarial Network Design
