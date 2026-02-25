@@ -2,9 +2,9 @@
 level: ''
 ---
 
-# LSI-contest from Khánh's Research Group
+# LSI-contest submissions
 
-- LSI Contest: http://www.lsi-contest.com/index.html
+- LSI Contest: [http://www.lsi-contest.com/index.html](http://www.lsi-contest.com/index.html)
 - Our submissions are accessible at: [https://github.com/klab-aizu/www_lsi-contest/](https://github.com/klab-aizu/www_lsi-contest/)
 
 ## Submissions
